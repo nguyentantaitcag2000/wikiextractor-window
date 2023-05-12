@@ -1,0 +1,10 @@
+^Cuộc đời và sự nghiệp\.$
+^Thông tin về sự ra đời\.$
+^Loài này thuộc chi .+. .+ được .+ tả năm \d+.$
+^Loài này thuộc chi ".+". ".+" được miêu tả năm \d+ bởi [A-z]+.$
+^Liên kết ngoài.$
+^ tại Wikimedia Commons$
+^Loài này phân bố ở [A-z]+\.$
+^ Phương tiện liên quan tới $
+^.{1,1} .{1,1} .{1,1}-.{1,1} .{1,1}-.{1,1} .{1,1}-.{1,1} .{1,1}-.{1,1} .{1,1}-.{1,1}$
+^\n$
